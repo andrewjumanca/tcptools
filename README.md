@@ -24,4 +24,4 @@ The IP address did not change for the same website between pings, but each websi
 | Microsoft | 23.45.229.117 | 9 | C, A |
 
 #### Can you identify your ISP from the intermediate server DNS names?
-You can identifyt the Internet Service Provider from the intermediate server DNS names. For example, I noticed the phrase "seattle.wa.ibone.comcast.net" several times when pinging various websites. This is because comcast provides my internet services for my household (and street for that matter).
+You can identify the Internet Service Provider from the intermediate server DNS names. For example, I noticed the phrase "seattle.wa.ibone.comcast.net" several times when pinging various websites. This is because comcast provides my internet services for my household (and street for that matter).
